@@ -1,0 +1,21 @@
+i{
+    color:#5471c9;
+}
+.doc:hover {
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  transform: scale(1.07)
+}
+.doc{
+  overflow: hidden;
+}
+
+  img {display:block;margin:0 auto;}
+
+
+@media screen  and (max-width:768px) {
+  .mediaq{
+    
+    width:100%;
+    
+  }
+}
